@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
 
+- 💬 I'm Tunbosun, a self taught backend developer.
+- 🌱 I'm currently looking for internship positions where I can improve on my skills.
+- 💬 Ask me about JavaScript, Node.js and Express.
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/tunbosun-adeyemo) | [twitter](https://twitter.com/@Zeus_of_Germany)
 <!--
 **TubbySparks/TubbySparks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
