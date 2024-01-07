@@ -8,7 +8,7 @@
  🔭 &nbsp; I am currently looking for internship positions where I can improve on my skills.\
  🔭 &nbsp; I love contributing to `Open Source Projects`.\
  🔭 &nbsp; I love coding challenges, and I am solving `CodeWars` challenges daily.\
- 💬 &nbsp; My coding journey started in 2018, which cut across Backend and Frontend Development.\  
+ 💬 &nbsp; My coding journey started in 2018, which cut across Backend and Frontend Development.  
  💬 &nbsp; Fun Fact ⚡: I love watching the sunset and I love watching the full moon also.\
  👯 &nbsp; I look forward to collaborating more on exciting projects with `JavaScript`, `node.js`,`Express` and `Java`.\
  📫 &nbsp; How to reach me: [linkedin](https://www.linkedin.com/in/tunbosun-adeyemo) | [twitter](https://twitter.com/@Zeus_of_Germany)
