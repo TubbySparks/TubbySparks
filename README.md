@@ -4,7 +4,7 @@
 
  💬 &nbsp; I am a `Backend Engineer` who is passionate about solving problems and building scalable systems.\
  📫 &nbsp; I hold a Bachelor's Degree in Computer Science from [RUN](https://run.edu.ng/) .\ 
-    &nbsp; I hold a Bachelor's Degree in Computer Engineering from [OAU](https://oauife.edu.ng/) .\
+   /n &nbsp; I hold a Bachelor's Degree in Computer Engineering from [OAU](https://oauife.edu.ng/) .\
  🔭 &nbsp; I am currently looking for internship positions where I can improve on my skills.\
  🔭 &nbsp; I love contributing to `Open Source Projects`.\
  🔭 &nbsp; I love coding challenges, and I am solving `CodeWars` challenges daily.\
