@@ -62,20 +62,18 @@
 
 <figure><embed src="https://wakatime.com/share/@018c4a0b-311a-452e-b76c-4c240422c1e3/465d876b-0bbc-46c9-b4f3-fd09a6bb2e3a.svg"></embed></figure>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TubbySparks&show_icons=true&theme=radical)
 
 
 ## :gear: Github and WakaTime Statistics :gear:
-
  <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=TubbySparks&theme=nightowl&border_radius=10" />
     </p>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=TubbySparks&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl&border_radius=10" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinex-boroja&hide=html&layout=compact&langs_count=8&theme=nightowl&border_radius=10" />
+        <img src="https://github-readme-stats.vercel.app/api?username=TubbySparks&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl&border_radius=10" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TubbySparks&hide=html&layout=compact&langs_count=8&theme=nightowl&border_radius=10" />
     </p>
     <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TubbySparks&theme=nightowl&border_radius=10"/></p>
-
+<img src="https://wakatime.com/share/@TubbySparks/d9e02cb9-9297-4692-8536-26a8ae4660b6.svg"></img>
 
  
 <!--
@@ -83,6 +81,8 @@
 
 Here are some ideas to get you started:
  📫 &nbsp; How to reach me: [linkedin](https://www.linkedin.com/in/tunbosun-adeyemo) | [twitter](https://twitter.com/@Zeus_of_Germany)
+![Tubby's GitHub stats](https://github-readme-stats.vercel.app/api?username=TubbySparks&show_icons=true&theme=radical)
+ 
 
 - 💬 I'm Tunbosun, a self taught backend developer.
 - 🌱 I'm currently looking for internship positions where I can improve on my skills.
@@ -96,4 +96,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=TubbySparks&theme=nightowl&border_radius=10" />
+    </p>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=TubbySparks&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl&border_radius=10" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TubbySparks&hide=html&layout=compact&langs_count=8&theme=nightowl&border_radius=10" />
+    </p>
+    <p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TubbySparks&theme=nightowl&border_radius=10"/></p>
+<img src="https://wakatime.com/share/@TubbySparks/d9e02cb9-9297-4692-8536-26a8ae4660b6.svg"></img>
+
 -->
